@@ -3,7 +3,7 @@
         [string]$cnl,
         [string]$msg
     )
-    $slackToken = "xoxb-5431437001842-5572288696579-kapAg3tUeJ1MujEh9mtVEEtU"
+    $slackToken = "xoxb-5431437001842-5572288696579-8IKL62fj0cnghsnS7ITtBUE9"
     $sortie=""
 
     $message = @{
