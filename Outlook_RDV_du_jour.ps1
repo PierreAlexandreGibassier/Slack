@@ -1,4 +1,4 @@
-﻿. .\Ne_pas_toucher\FonctionSlack.ps1
+﻿. .\FonctionSlack.ps1
 
 # Charger le module Outlook
 Add-Type -AssemblyName "Microsoft.Office.Interop.Outlook"
