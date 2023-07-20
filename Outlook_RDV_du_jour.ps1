@@ -3,7 +3,7 @@ function EnvoyerMessage {
         [string]$cnl,
         [string]$msg
     )
-    $slackToken = "xoxb-5431437001842-5572288696579-qFh6W3S46L1PFyeYVjyrrIOc"
+    $slackToken = "xoxb-5431437001842-5572288696579-ZimVBRzqQCiLoTezLktMXB9Y"
     $sortie=""
 
     $message = @{
